@@ -13,11 +13,10 @@ I am a beginner passionate about turning raw data into meaningful insights. Curr
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
-
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sainigolu2570&show_icons=true&theme=radical" alt="Golu's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainigolu2570&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=sainigolu2570&show_icons=true&theme=default" alt="Golu's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainigolu2570&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
 ---
